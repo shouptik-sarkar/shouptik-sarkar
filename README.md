@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there 👋, I'm Shouptik Sarkar
 
-<!--
-**shouptik-sarkar/shouptik-sarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 EMBA (HRM) | Jahangirnagar University  
+📊 Aspiring HR Professional | Data & AI Enthusiast  
+🌍 Career Goal: HR role in a multinational company  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔍 Passionate about Human Resource Management & Analytics  
+- 📈 Interested in Data Analysis, AI in HR, and Organizational Development  
+- 🎯 Currently exploring career opportunities in HR & Tech-driven roles  
+
+---
+
+## 💼 Skills
+- HRM & Organizational Behavior  
+- Recruitment & Talent Management  
+- Training & Development  
+- Compensation & Benefits  
+- Data Analysis (Excel, Basic Python - learning)  
+
+---
+
+## 📊 Projects (Coming Soon)
+- 📌 HR Analytics Dashboard  
+- 📌 Employee Satisfaction Survey Analysis  
+- 📌 Training & Development Impact Study  
+
+---
+
+## 🛠 Tools & Technologies
+- Microsoft Excel  
+- PowerPoint  
+- SPSS (Basic)  
+- Python (Learning)  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: shouptiksarkar@gmail.com  
+- 📱 Phone: +8801865903648  
+
+---
+
+## 🌱 Currently Learning
+- HR Analytics  
+- Data Visualization  
+- AI applications in HR  
+
+---
+
+⭐ *“Turning data into decisions, and people into performance.”*
